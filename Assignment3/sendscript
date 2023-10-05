@@ -1,0 +1,17 @@
+Script started on 2021-04-09 23:00:31+05:30 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="78" LINES="12"]
+(base) ]0;sandip@sandip-pc: ~/Desktop/Assignments/NS/Assignment 3[01;32msandip@sandip-pc[00m:[01;34m~/Desktop/Assignments/NS/Assignment 3[00m$ [K(base) ]0;sandip@sandip-pc: ~/Desktop/Assignments/NS/Assignment 3[01;32msandip@sandip-pc[00m:[01;34m~/Desktop/Assignments/NS/Assignment 3[00m$ [K(base) ]0;sandip@sandip-pc: ~/Desktop/Assignments/NS/Assignment 3[01;32msandip@sandip-pc[00m:[01;34m~/Desktop/Assignments/NS/Assignment 3[00m$ python client.py -n bob -m S -o alic -i assignment3.pdf -a 127.0.1.1 -p 1234
+Contacting to KDC...
+Registered, :b'302|bob'
+Sleeps for 15 seconds...
+Requesting for session key...
+session key received: b'\x9a\\\xbb\xac\x86*\xf5\xf4\xbbH\xe6\xbe2M\xc0\x91'
+Disconnected from KDC...
+Connecting alic @ 127.0.35.50:4273
+Sending assignment3.pdf to alic
+enc data size: 105024 Bytes
+File sent, Disconnecting!
+Disconnected!
+(base) ]0;sandip@sandip-pc: ~/Desktop/Assignments/NS/Assignment 3[01;32msandip@sandip-pc[00m:[01;34m~/Desktop/Assignments/NS/Assignment 3[00m$ exit
+exit
+
+Script done on 2021-04-09 23:02:16+05:30 [COMMAND_EXIT_CODE="0"]

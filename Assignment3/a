@@ -1,0 +1,7 @@
+Script started on 2021-04-09 13:37:14+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="150" LINES="38"]
+(base) ]0;sandip@sandip-pc: ~/Desktop/Assignments/NS/Assignment 3[01;32msandip@sandip-pc[00m:[01;34m~/Desktop/Assignments/NS/Assignment 3[00m$ ls
+[0m[01;35m123.png[0m  a  assignment3.pdf  client.py  connection.py  handler.py  kdc.py  log.txt  outenc  outfile  plain  pwdfile.txt  [01;34m__pycache__[0m  [01;34mtest[0m  util.py
+(base) ]0;sandip@sandip-pc: ~/Desktop/Assignments/NS/Assignment 3[01;32msandip@sandip-pc[00m:[01;34m~/Desktop/Assignments/NS/Assignment 3[00m$ exit
+exit
+
+Script done on 2021-04-09 13:37:18+05:30 [COMMAND_EXIT_CODE="0"]
